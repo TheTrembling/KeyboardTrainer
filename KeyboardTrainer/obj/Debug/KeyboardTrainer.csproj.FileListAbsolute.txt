@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\KeyboardTrainer\bin\Debug\KeyboardTrainer.exe.config
+C:\Users\lenovo\source\repos\KeyboardTrainer\bin\Debug\KeyboardTrainer.exe
+C:\Users\lenovo\source\repos\KeyboardTrainer\bin\Debug\KeyboardTrainer.pdb
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.Properties.Resources.resources
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.exe
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.pdb
+C:\Users\lenovo\source\repos\KeyboardTrainer\obj\Debug\KeyboardTrainer.KeyboardTrainer.resources
